@@ -20,8 +20,8 @@ public class Contas_bancos {
 
 
 
-        System.out.println("Olá " + nome_usuario +" "+ sobrenome + " obrigado por entrar no nosso branco!!");
+        System.out.println("Olá " + nome_usuario +" "+ sobrenome + ", você acessou seu banco com sucesso!!");
 
-        System.out.println("Sua agencia bancaria é a: " + banco + " onde seu saldo é de R$" +  saldo);
+        System.out.println("Segue suas informações: Sua agência bancaria é " + banco + " que se localiza em João pessoa na Paraíba, cujo o seu saldo é de R$" +  saldo);
     }
 }
